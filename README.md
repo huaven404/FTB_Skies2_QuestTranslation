@@ -23,14 +23,16 @@
 ![展示圖2](images/sub1.png)
 ![展示圖3](images/sub2.png)
 
+如果你想更直觀了解本翻譯包的內容與效果，歡迎前往[YouTube](https://www.youtube.com/playlist?list=PLzKUwhCZmW2yl7bNz6pkolM33QRgnoXHh)觀看示範。
+
 ---
 
 ## 使用說明
 
-- 下載請至 [Release 頁面](https://github.com/huaven404/FTB_Skies2_QuestTranslation/releases)。  
+- 請至 [Release 頁面](https://github.com/huaven404/FTB_Skies2_QuestTranslation/releases)下載最新版本。。  
 - 若你是以中文（台灣）遊玩的玩家，請下載並使用 `zh_tw.snbt` 檔案。  
-- 譯者推薦使用 [Untranslated Items](https://www.curseforge.com/minecraft/mc-mods/untranslated-items) 這個模組，方便查詢物品名稱。  
-- 資料夾位置可以在這裡打開 ![資料夾](images/Folder.png)
+- 推薦使用 [Untranslated Items](https://www.curseforge.com/minecraft/mc-mods/untranslated-items)模組，方便查詢物品名稱。  
+- 資料夾位置可參考圖片指引[資料夾](images/Folder.png)
 - 請將翻譯檔放置於以下路徑：  
   `\FTB Skies 2\config\ftbquests\quests\lang`
 
