@@ -1,3 +1,5 @@
+# 此為FTB Skies2 任務翻譯包
+
 # 適用模組包
 
 本翻譯包適用於模組包 [FTB Skies 2](https://www.curseforge.com/minecraft/modpacks/ftb-skies-2) 版本 1.6.0。
