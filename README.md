@@ -1,4 +1,4 @@
-# 此為FTB Skies2 任務翻譯包
+# FTB Skies2 任務翻譯包
 
 # 適用模組包
 
